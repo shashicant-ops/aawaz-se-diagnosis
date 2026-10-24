@@ -1,0 +1,19 @@
+# Environment & Secrets
+.env
+.env.*
+.streamlit/secrets.toml
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Environments
+venv/
+.venv/
+env/
+
+# Mac OS
+.DS_Store
